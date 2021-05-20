@@ -1,6 +1,10 @@
 # DPLL
 SAT solver using DPLL algorithm with clause learning
 
+```
+$ python solvepy3.py PATH_TO_INPUT
+```
+
 ## Input/Ouput
 
 Input/Output  is always CNF formula in [DIMACS format](https://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html).
